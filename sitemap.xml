@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+	
+	<url>
+		<loc>https://book-club.nerdfromchile.com/eleventy-base-blog/blog/session1/</loc>
+		<lastmod>2024-09-30</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://book-club.nerdfromchile.com/eleventy-base-blog/blog/</loc>
+		<lastmod>2024-09-30</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://book-club.nerdfromchile.com/eleventy-base-blog/</loc>
+		<lastmod>2024-09-30</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://book-club.nerdfromchile.com/eleventy-base-blog/tags/</loc>
+		<lastmod>2024-09-30</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://book-club.nerdfromchile.com/eleventy-base-blog/tags/productividad/</loc>
+		<lastmod>2024-09-30</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://book-club.nerdfromchile.com/eleventy-base-blog/tags/trabajo-profundo/</loc>
+		<lastmod>2024-09-30</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://book-club.nerdfromchile.com/eleventy-base-blog/tags/habitos-atomicos/</loc>
+		<lastmod>2024-09-30</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://book-club.nerdfromchile.com/eleventy-base-blog/tags/concentracion/</loc>
+		<lastmod>2024-09-30</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://book-club.nerdfromchile.com/eleventy-base-blog/tags/habitos/</loc>
+		<lastmod>2024-09-30</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://book-club.nerdfromchile.com/eleventy-base-blog/tags/finanzas/</loc>
+		<lastmod>2024-09-30</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://book-club.nerdfromchile.com/eleventy-base-blog/tags/dinero/</loc>
+		<lastmod>2024-09-30</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://book-club.nerdfromchile.com/eleventy-base-blog/blog/session2/</loc>
+		<lastmod>2024-10-06</lastmod>
+	</url>
+</urlset>
