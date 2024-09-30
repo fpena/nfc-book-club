@@ -64,9 +64,7 @@ Mejoraré para la siguiente vez.
 
 ## Recursos
 
-* [Link a mapa mental de Enfócate](./mapa.png)
-
-<img src="./mapa.png" width="400" />
+* [Link a mapa mental de Enfócate](https://drive.google.com/file/d/1IbWiwlqCgcrPvqJa1mprH1_HQ54akYAD/view?usp=sharing)
 
 ## Libros que se hacen referencia
 
