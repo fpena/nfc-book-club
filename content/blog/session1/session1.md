@@ -1,9 +1,13 @@
 ---
 title: Club de Lectura No. 1 - Libros de productividad
-description: This is a post on My Blog about agile frameworks.
+description: Resumen de lo que aprendimos en sesión 1 del club de lectura.
 date: 2024-09-30
 tags:
-  - productividad, trabajo, profundo, hábitos atómicos
+  - productividad
+  - trabajo profundo
+  - hábitos atómicos
+  - concentración
+  - hábitos
 ---
 ## Grabación
 [Link a video en Youtube](https://youtu.be/bE4m2gGCNHM)
@@ -60,13 +64,15 @@ Mejoraré para la siguiente vez.
 
 ## Recursos
 
+* [Link a mapa mental de Enfócate](./mapa.png)
+
 <img src="./mapa.png" width="400" />
 
 ## Libros que se hacen referencia
 
-* ["Hábitos atómicos"](https://www.goodreads.com/es/book/show/47620585-habitos-atomicos)
-* ["Enfócate"](https://www.goodreads.com/book/show/36509192-enfocate-trabajo-profundo)
-* [The High 5 Method](https://www.goodreads.com/book/show/58505300-the-high-5-habit)
-* ["Los 7 Hábitos de la Gente Altamente Eficaz"](https://www.goodreads.com/book/show/40892897-los-7-h-bitos-de-la-gente-altamente-efectiva)
+* [Hábitos atómicos](https://www.goodreads.com/es/book/show/47620585-habitos-atomicos)
+* [Enfócate (Deep work)](https://www.goodreads.com/book/show/36509192-enfocate-trabajo-profundo)
+* [The high 5 method](https://www.goodreads.com/book/show/58505300-the-high-5-habit)
+* [Los 7 hábitos de la gente altamente eficaz](https://www.goodreads.com/book/show/40892897-los-7-h-bitos-de-la-gente-altamente-efectiva)
 * [Why we sleep?](https://www.goodreads.com/book/show/34466963-why-we-sleep)
 
