@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:base="es">
 	<title>Club de Lectura - Nerd From Chile</title>
 	<subtitle>Sitio web para organizar y compartir aprendizajes de los libros que leemos en el Club de Lectura de Nerd From Chile</subtitle>
-	<link href="https://book-club.nerdfromchile.com/feed/feed.xml" rel="self"/>
-	<link href="https://book-club.nerdfromchile.com/"/>
+	<link href="https://book-club.nerdfromchile.com/eleventy-base-blog/feed/feed.xml" rel="self"/>
+	<link href="https://book-club.nerdfromchile.com/eleventy-base-blog/"/>
 	<updated>2024-10-06T00:00:00Z</updated>
 	<id>https://book-club.nerdfromchile.com/</id>
 	<author>
@@ -13,10 +13,10 @@
 	
 	<entry>
 		<title>Club de Lectura No. 2 - &quot;Con peras y finanzas&quot;</title>
-		<link href="https://book-club.nerdfromchile.com/blog/session2/"/>
+		<link href="https://book-club.nerdfromchile.com/eleventy-base-blog/blog/session2/"/>
 		<updated>2024-10-06T00:00:00Z</updated>
-		<id>https://book-club.nerdfromchile.com/blog/session2/</id>
-		<content type="html">&lt;h2 id=&quot;registro&quot; tabindex=&quot;-1&quot;&gt;Registro &lt;a class=&quot;header-anchor&quot; href=&quot;https://book-club.nerdfromchile.com/blog/session2/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+		<id>https://book-club.nerdfromchile.com/eleventy-base-blog/blog/session2/</id>
+		<content type="html">&lt;h2 id=&quot;registro&quot; tabindex=&quot;-1&quot;&gt;Registro &lt;a class=&quot;header-anchor&quot; href=&quot;https://book-club.nerdfromchile.com/eleventy-base-blog/blog/session2/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://us05web.zoom.us/webinar/register/WN_LchrTmgxTiWsocvDTlASVQ#/registration&quot;&gt;Link a registro&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -25,15 +25,15 @@
 	
 	<entry>
 		<title>Club de Lectura No. 1 - Libros de productividad</title>
-		<link href="https://book-club.nerdfromchile.com/blog/session1/"/>
+		<link href="https://book-club.nerdfromchile.com/eleventy-base-blog/blog/session1/"/>
 		<updated>2024-09-30T00:00:00Z</updated>
-		<id>https://book-club.nerdfromchile.com/blog/session1/</id>
-		<content type="html">&lt;h2 id=&quot;grabacion&quot; tabindex=&quot;-1&quot;&gt;Grabación &lt;a class=&quot;header-anchor&quot; href=&quot;https://book-club.nerdfromchile.com/blog/session1/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+		<id>https://book-club.nerdfromchile.com/eleventy-base-blog/blog/session1/</id>
+		<content type="html">&lt;h2 id=&quot;grabacion&quot; tabindex=&quot;-1&quot;&gt;Grabación &lt;a class=&quot;header-anchor&quot; href=&quot;https://book-club.nerdfromchile.com/eleventy-base-blog/blog/session1/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://youtu.be/bE4m2gGCNHM&quot;&gt;Link a video en Youtube&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Disculpa por la primera parte en blanco. Estaba compartiendo la pizarra y no sabía que solo se iba a ver eso.
 Mejoraré para la siguiente vez.&lt;/p&gt;
-&lt;h2 id=&quot;conversacion&quot; tabindex=&quot;-1&quot;&gt;Conversación &lt;a class=&quot;header-anchor&quot; href=&quot;https://book-club.nerdfromchile.com/blog/session1/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;h3 id=&quot;tecnicas-de-productividad&quot; tabindex=&quot;-1&quot;&gt;Técnicas de productividad &lt;a class=&quot;header-anchor&quot; href=&quot;https://book-club.nerdfromchile.com/blog/session1/&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;h2 id=&quot;conversacion&quot; tabindex=&quot;-1&quot;&gt;Conversación &lt;a class=&quot;header-anchor&quot; href=&quot;https://book-club.nerdfromchile.com/eleventy-base-blog/blog/session1/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;tecnicas-de-productividad&quot; tabindex=&quot;-1&quot;&gt;Técnicas de productividad &lt;a class=&quot;header-anchor&quot; href=&quot;https://book-club.nerdfromchile.com/eleventy-base-blog/blog/session1/&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;🎯 Hablamos de poner en práctica la Técnica Pomodoro: trabaja durante 25 minutos, tómate un descanso de 5 minutos, repite 4 veces, y luego tómate un descanso de 15-30 minutos para mantener la concentración y evitar el agotamiento.&lt;/p&gt;
@@ -48,7 +48,7 @@ Mejoraré para la siguiente vez.&lt;/p&gt;
 &lt;p&gt;📱 Utilizar la &lt;a href=&quot;https://elevenlabs.io/text-reader&quot;&gt;aplicación de Eleven Labs&lt;/a&gt; para fotografiar y empezar a leer libros, ayudando a superar la parálisis de no leer.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&quot;formacion-de-habitos&quot; tabindex=&quot;-1&quot;&gt;Formación de hábitos &lt;a class=&quot;header-anchor&quot; href=&quot;https://book-club.nerdfromchile.com/blog/session1/&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;formacion-de-habitos&quot; tabindex=&quot;-1&quot;&gt;Formación de hábitos &lt;a class=&quot;header-anchor&quot; href=&quot;https://book-club.nerdfromchile.com/eleventy-base-blog/blog/session1/&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;🔍 Centrase en desarrollar la identidad que quieres tener (por ejemplo, ser una persona sana) en lugar de objetivos específicos para formar hábitos duraderos.&lt;/p&gt;
@@ -63,7 +63,7 @@ Mejoraré para la siguiente vez.&lt;/p&gt;
 &lt;p&gt;🎯 Determina la dosis mínima eficaz para cada hábito, que es la menor cantidad de tiempo o esfuerzo necesarios para conseguir el resultado deseado.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&quot;mentalidad-de-productividad&quot; tabindex=&quot;-1&quot;&gt;Mentalidad de Productividad &lt;a class=&quot;header-anchor&quot; href=&quot;https://book-club.nerdfromchile.com/blog/session1/&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;mentalidad-de-productividad&quot; tabindex=&quot;-1&quot;&gt;Mentalidad de Productividad &lt;a class=&quot;header-anchor&quot; href=&quot;https://book-club.nerdfromchile.com/eleventy-base-blog/blog/session1/&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;📊 Concéntrate en mejorar los sistemas que apoyan o dificultan tus hábitos, en lugar de criticarte por no cumplir los objetivos.&lt;/p&gt;
@@ -72,7 +72,7 @@ Mejoraré para la siguiente vez.&lt;/p&gt;
 &lt;p&gt;🧠 Reconoce que los libros de productividad tienen un impacto diferente en los lectores en función de la edad, el contexto y la situación, así que céntrate en absorber lo que resuene personalmente.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&quot;estrategias-de-trabajo-profundo&quot; tabindex=&quot;-1&quot;&gt;Estrategias de Trabajo Profundo &lt;a class=&quot;header-anchor&quot; href=&quot;https://book-club.nerdfromchile.com/blog/session1/&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;estrategias-de-trabajo-profundo&quot; tabindex=&quot;-1&quot;&gt;Estrategias de Trabajo Profundo &lt;a class=&quot;header-anchor&quot; href=&quot;https://book-club.nerdfromchile.com/eleventy-base-blog/blog/session1/&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;🎯 Practica el trabajo concentrado sin interrupciones, como se subraya en &lt;a href=&quot;https://www.goodreads.com/book/show/36509192-enfocate-trabajo-profundo&quot;&gt;&amp;quot;Enfócate&amp;quot;&lt;/a&gt; de Cal Newport, para producir trabajo de alta calidad con eficacia.&lt;/p&gt;
@@ -81,7 +81,7 @@ Mejoraré para la siguiente vez.&lt;/p&gt;
 &lt;p&gt;📧 Supera la tendencia a dar prioridad a los correos electrónicos sobre las tareas importantes reconociendo que es una forma de resistencia que puede obstaculizar la productividad.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&quot;tecnicas-para-crear-habitos&quot; tabindex=&quot;-1&quot;&gt;Técnicas para crear hábitos &lt;a class=&quot;header-anchor&quot; href=&quot;https://book-club.nerdfromchile.com/blog/session1/&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;tecnicas-para-crear-habitos&quot; tabindex=&quot;-1&quot;&gt;Técnicas para crear hábitos &lt;a class=&quot;header-anchor&quot; href=&quot;https://book-club.nerdfromchile.com/eleventy-base-blog/blog/session1/&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;🏗️ Aplica pequeños cambios sostenibles que puedan apilarse para mejorar la productividad y la eficacia, como se sugiere en &lt;a href=&quot;https://www.goodreads.com/es/book/show/47620585-habitos-atomicos&quot;&gt;&amp;quot;Hábitos atómicos&amp;quot;&lt;/a&gt; de James Clear.&lt;/p&gt;
@@ -90,15 +90,15 @@ Mejoraré para la siguiente vez.&lt;/p&gt;
 &lt;p&gt;🏆 Céntrate en conseguir pequeñas victorias para coger impulso y progresar con el tiempo al desarrollar nuevos hábitos.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&quot;contexto-y-entorno&quot; tabindex=&quot;-1&quot;&gt;Contexto y Entorno &lt;a class=&quot;header-anchor&quot; href=&quot;https://book-club.nerdfromchile.com/blog/session1/&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;contexto-y-entorno&quot; tabindex=&quot;-1&quot;&gt;Contexto y Entorno &lt;a class=&quot;header-anchor&quot; href=&quot;https://book-club.nerdfromchile.com/eleventy-base-blog/blog/session1/&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;👥 Considera la importancia del contexto en la formación de hábitos, incluyendo la hora del día y las personas de las que te rodeas.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&quot;superar-los-retos&quot; tabindex=&quot;-1&quot;&gt;Superar los retos &lt;a class=&quot;header-anchor&quot; href=&quot;https://book-club.nerdfromchile.com/blog/session1/&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;superar-los-retos&quot; tabindex=&quot;-1&quot;&gt;Superar los retos &lt;a class=&quot;header-anchor&quot; href=&quot;https://book-club.nerdfromchile.com/eleventy-base-blog/blog/session1/&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;🔄 Cuando te sientas estancado, tómate un descanso de 15 minutos seguido de 25 minutos de trabajo concentrado para evitar el agotamiento y mantener la motivación.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&quot;tecnologia-y-enfoque&quot; tabindex=&quot;-1&quot;&gt;Tecnología y Enfoque &lt;a class=&quot;header-anchor&quot; href=&quot;https://book-club.nerdfromchile.com/blog/session1/&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;tecnologia-y-enfoque&quot; tabindex=&quot;-1&quot;&gt;Tecnología y Enfoque &lt;a class=&quot;header-anchor&quot; href=&quot;https://book-club.nerdfromchile.com/eleventy-base-blog/blog/session1/&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;💻 Reconocer la creciente importancia de la concentración profunda en un mundo en el que la tecnología nos interrumpe constantemente, como se expone en &lt;a href=&quot;https://www.goodreads.com/book/show/36509192-enfocate-trabajo-profundo&quot;&gt;&amp;quot;Enfócate&amp;quot;&lt;/a&gt;.&lt;/p&gt;
@@ -107,12 +107,12 @@ Mejoraré para la siguiente vez.&lt;/p&gt;
 &lt;p&gt;📱 Gestiona el reto de mantener el trabajo concentrado en entornos con constantes correos electrónicos o expectativas de estar de guardia aplicando estrategias de los libros de productividad.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&quot;recursos&quot; tabindex=&quot;-1&quot;&gt;Recursos &lt;a class=&quot;header-anchor&quot; href=&quot;https://book-club.nerdfromchile.com/blog/session1/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;recursos&quot; tabindex=&quot;-1&quot;&gt;Recursos &lt;a class=&quot;header-anchor&quot; href=&quot;https://book-club.nerdfromchile.com/eleventy-base-blog/blog/session1/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://book-club.nerdfromchile.com/blog/session1/mapa.png&quot;&gt;Link a mapa mental de Enfócate&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://book-club.nerdfromchile.com/eleventy-base-blog/blog/session1/mapa.png&quot;&gt;Link a mapa mental de Enfócate&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;img src=&quot;https://book-club.nerdfromchile.com/blog/session1/mapa.png&quot; width=&quot;400&quot;&gt;
-&lt;h2 id=&quot;libros-que-se-hacen-referencia&quot; tabindex=&quot;-1&quot;&gt;Libros que se hacen referencia &lt;a class=&quot;header-anchor&quot; href=&quot;https://book-club.nerdfromchile.com/blog/session1/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;img src=&quot;https://book-club.nerdfromchile.com/eleventy-base-blog/blog/session1/mapa.png&quot; width=&quot;400&quot;&gt;
+&lt;h2 id=&quot;libros-que-se-hacen-referencia&quot; tabindex=&quot;-1&quot;&gt;Libros que se hacen referencia &lt;a class=&quot;header-anchor&quot; href=&quot;https://book-club.nerdfromchile.com/eleventy-base-blog/blog/session1/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.goodreads.com/es/book/show/47620585-habitos-atomicos&quot;&gt;Hábitos atómicos&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/36509192-enfocate-trabajo-profundo&quot;&gt;Enfócate (Deep work)&lt;/a&gt;&lt;/li&gt;
