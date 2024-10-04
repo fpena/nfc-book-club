@@ -6,6 +6,40 @@ eleventyNavigation:
 numberOfLatestPostsToShow: 3
 ---
 
+<h1>Próximos libros</h1>
+
+<table>
+	<thead>
+		<tr>
+			<th>Portada</th>
+			<th>Título</th>
+			<th>Fecha</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td><img width="70" src="https://nerd-from-chile-book-club.s3.amazonaws.com/peras-finanzas.png" alt="Con peras y finanzas"></td>
+			<td><a href="https://www.goodreads.com/book/show/123191498-con-peras-y-finanzas">Con peras y finanzas</a></td>
+			<td>6 de octubre de 2024</td>
+		</tr>
+		<tr>
+			<td><img width="70" src="https://nerd-from-chile-book-club.s3.amazonaws.com/el-camino-del-caracter.jpg" alt="El camino del caracter"></td>
+			<td><a href="https://www.goodreads.com/book/show/32202267-el-camino-del-car-cter?ac=1&from_search=true&qid=gx4HHmshgK&rank=1">El camino del caracter</a></td>
+			<td>13 de octubre de 2024</td>
+		</tr>
+		<tr>
+			<td><img width="70" src="https://nerd-from-chile-book-club.s3.amazonaws.com/not-fade-away.jpg" alt="Not fade away"></td>
+			<td><a href="https://www.goodreads.com/book/show/137554.Not_Fade_Away?ref=nav_sb_ss_1_13">Not fade away</a></td>
+			<td>20 de octubre de 2024</td>
+		</tr>
+		<tr>
+			<td><img width="70" src="https://nerd-from-chile-book-club.s3.amazonaws.com/star-principle.jpg" alt="The Star Principle"></td>
+			<td><a href="https://www.goodreads.com/book/show/4513223-the-star-principle">The Star Principle: How It Can Make You Rich</a></td>
+			<td>27 de octubre de 2024</td>
+		</tr>
+	</tbody>
+</table>
+
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
 <h1>Sesiones</h1>
